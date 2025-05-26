@@ -11,8 +11,8 @@ import speech_recognition as sr
 
 
 
-API_KEY="AIzaSyBAFj3lSe9w-kL_k8661t-pUaCxQMK4HtU"
-SEARCH_ENGINE_ID="40c6b7e427c2245d3"
+API_KEY="your api key"
+SEARCH_ENGINE_ID="search engine id"
 
 
 
